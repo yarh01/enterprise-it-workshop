@@ -1,4 +1,4 @@
-name: Development Pipeline
+name: Chain Pipeline
 
 on:
   push:
